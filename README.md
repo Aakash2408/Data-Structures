@@ -1,5 +1,6 @@
-# Data Structures
-:) I have published all my codes which i have written in my 2nd semester of Enigineering
-:) These codes are in C language
+## Data Structures Programs
+:) I have published all my codes which I have written and submitted for Data Structures in 2nd semester of B.Tech(CSE)
 
-:) If you find any error then please coorect it ,each and every effort will be appreciated
+:) These codes are written in C language and are tested on CodeBlocks (MinGW compiler)
+
+:) If you find any error, then please correct it, each and every effort will be appreciated.
